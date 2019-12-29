@@ -1,0 +1,1 @@
+SELECT * Students WHERE City LIKE '[a-fA-F]%'
